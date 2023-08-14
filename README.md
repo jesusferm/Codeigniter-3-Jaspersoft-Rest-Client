@@ -1,5 +1,7 @@
 # CodeIgniter 3 con Jaspersoft Rest Client
 
+![Proyecto](./assets/images/1.png)
+
 ## Qué es CodeIgniter?
 
 CodeIgniter es un framework de desarrollo de aplicaciones web de código abierto y basado en PHP. Fue creado por EllisLab y ahora es mantenido por la comunidad de desarrolladores. CodeIgniter proporciona una estructura ligera y sencilla para desarrollar aplicaciones web rápidas y eficientes, siguiendo el patrón de diseño MVC [official site](https://codeigniter.com).
